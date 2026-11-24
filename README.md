@@ -1,7 +1,6 @@
 # MST-Cut clustering - Step 1: data
 
 Research code for a MILP model that cuts a given minimum spanning tree (MST) for clustering.
-This repository currently contains **step 1 only: dataset access and selection**.
 
 ## Setup
 ```
@@ -16,4 +15,4 @@ python scripts/make_catalog.py          # writes results/catalog.csv
   (`rg1_noise`, `rg2_imbalance`, `control`) and tier.
 
 Benchmark data: M. Gagolewski, *A framework for benchmarking clustering algorithms*, SoftwareX 20 (2022) 101270,
-https://github.com/gagolews/clustering-data-v1 (not included here; cloned into `data/`).
+https://github.com/gagolews/clustering-data-v1 (cloned into `data/`).
