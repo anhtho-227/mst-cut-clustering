@@ -1,4 +1,4 @@
-# MST-Cut clustering - Step 1: data
+# MST-Cut clustering
 
 Research code for a MILP model that cuts a given minimum spanning tree (MST) for clustering.
 
